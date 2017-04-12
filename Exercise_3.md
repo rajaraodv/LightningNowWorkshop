@@ -55,8 +55,8 @@ In this exercise you will learn how to:
 
 1. In the Dev Console, select File > Open > Pages, select **Similar_Properties** and click **Open**. Familiarize yourself with the code.
 
-1. Select the contents of the page and replace it with the [contents of this page](https://raw.githubusercontent.com/developerforce/LightningNowWorkshop/master/Exercise_3/src/pages/Similar_Properties.page).
-
+1. Select the contents of the page and replace it with the
+<a href="https://raw.githubusercontent.com/developerforce/LightningNowWorkshop/master/Exercise_3/src/pages/Similar_Properties.page" target="_blank">contents of this page</a>.
 1. Save the page, then reload the Property Record Detail page.
 
 > You could also use the conditional rendering approach covered in exercise 2 
